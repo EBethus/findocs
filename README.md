@@ -1,9 +1,12 @@
 # findocs
 
+
+Fazer instalacao dos pacotes
 ```
 sudo apt install tesseract-ocr
-tesseract -v
-tesseract 5.0.0-alpha-20201224-3-ge1a3
 sudo apt install tesseract-ocr-por
 ```
+
+Descarregar a data de treino da rede neuronal
+https://github.com/tesseract-ocr/tessdata/blob/main/por.traineddata
 
